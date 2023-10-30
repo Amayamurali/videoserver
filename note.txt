@@ -1,0 +1,35 @@
+Json Server Creation In Node
+----------------------------
+
+command to create/install
+-----------------
+-node - npm init
+-json - npm i json-server
+-nodemon - npm i nodemon
+
+nodemon
+-------
+node nu ottakk recombailing not possible.  so nodemon is a server which allows automatic recombilation on the node.
+                                              ---------------------------------------------------------------------
+
+
+require is used to import in server side
+
+
+middlewares have the ability to control all the server request in a server.
+-----------
+if we apply middlewares in a server, the middleware will work bwfore the server request.
+json type file convert to js type
+
+
+
+cors- cross origin resource share
+---------------------------------
+to connect the front-end with the node server(back-end)
+
+command to install crocs is
+npm i cors
+
+
+
+  

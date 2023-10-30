@@ -1,0 +1,184 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Luminar Technolab",
+      "cover_img": "https://i.postimg.cc/QtSsPKzm/luminar.png",
+      "video_url": "https://www.youtube.com/embed/2sofDNM4Ymo?autoplay=1"
+    },
+    {
+      "id": "lnyejv77",
+      "caption": "Apna  Bana Le",
+      "cover_img": "https://i.postimg.cc/QNBsJkT4/Apna-Bana-Le.jpg",
+      "video_url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1"
+    },
+    {
+      "id": 2,
+      "caption": "Baby",
+      "cover_img": "https://i.postimg.cc/3NK87VZB/Justin-Bieber-Baby-ft-Ludacris.jpg",
+      "video_url": "https://www.youtube.com/embed/kffacxfA7G4?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": "Mr.Bean",
+      "cover_img": "https://i.postimg.cc/vHJwGw1x/bean.webp",
+      "video_url": "https://www.youtube.com/embed/9LhLjpsstPY?autoplay=1"
+    },
+    {
+      "id": 4,
+      "caption": "Tom & Jerry",
+      "cover_img": "https://i.postimg.cc/gkT8JNdZ/tomandjerry.jpg",
+      "video_url": "https://www.youtube.com/embed/YTDHcEJs684?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "comic",
+      "video": [
+        {
+          "id": 3,
+          "caption": "Mr.Bean",
+          "cover_img": "https://i.postimg.cc/vHJwGw1x/bean.webp",
+          "video_url": "https://www.youtube.com/embed/9LhLjpsstPY?autoplay=1"
+        },
+        {
+          "id": 4,
+          "caption": "Tom & Jerry",
+          "cover_img": "https://i.postimg.cc/gkT8JNdZ/tomandjerry.jpg",
+          "video_url": "https://www.youtube.com/embed/YTDHcEJs684?autoplay=1"
+        },
+        [
+          {
+            "id": 1,
+            "caption": "Luminar Technolab",
+            "cover_img": "https://i.postimg.cc/QtSsPKzm/luminar.png",
+            "video_url": "https://www.youtube.com/embed/2sofDNM4Ymo?autoplay=1"
+          },
+          {
+            "id": "lnyejv77",
+            "caption": "Apna  Bana Le",
+            "cover_img": "https://i.postimg.cc/QNBsJkT4/Apna-Bana-Le.jpg",
+            "video_url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1"
+          },
+          {
+            "id": 2,
+            "caption": "Baby",
+            "cover_img": "https://i.postimg.cc/3NK87VZB/Justin-Bieber-Baby-ft-Ludacris.jpg",
+            "video_url": "https://www.youtube.com/embed/kffacxfA7G4?autoplay=1"
+          },
+          {
+            "id": 3,
+            "caption": "Mr.Bean",
+            "cover_img": "https://i.postimg.cc/vHJwGw1x/bean.webp",
+            "video_url": "https://www.youtube.com/embed/9LhLjpsstPY?autoplay=1"
+          },
+          {
+            "id": 4,
+            "caption": "Tom & Jerry",
+            "cover_img": "https://i.postimg.cc/gkT8JNdZ/tomandjerry.jpg",
+            "video_url": "https://www.youtube.com/embed/YTDHcEJs684?autoplay=1"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "lo9mm4to",
+      "name": "Hollywood",
+      "video": [
+        {
+          "id": 2,
+          "caption": "Baby",
+          "cover_img": "https://i.postimg.cc/3NK87VZB/Justin-Bieber-Baby-ft-Ludacris.jpg",
+          "video_url": "https://www.youtube.com/embed/kffacxfA7G4?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lo9mmkut",
+      "name": "Feel good",
+      "video": [
+        {
+          "id": "lnyejv77",
+          "caption": "Apna  Bana Le",
+          "cover_img": "https://i.postimg.cc/QNBsJkT4/Apna-Bana-Le.jpg",
+          "video_url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo6snx7e",
+      "video_title": "Apna  Bana Le",
+      "url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1",
+      "date": "2023-10-26 11:49:24 AM"
+    },
+    {
+      "id": "lo76erda",
+      "video_title": "Baby",
+      "url": "https://www.youtube.com/embed/kffacxfA7G4?autoplay=1",
+      "date": "2023-10-26 6:14:11 PM"
+    },
+    {
+      "id": "lo76g78h",
+      "video_title": "Baby",
+      "url": "https://www.youtube.com/embed/kffacxfA7G4?autoplay=1",
+      "date": "2023-10-26 6:15:18 PM"
+    },
+    {
+      "id": "lo76gbk5",
+      "video_title": "Luminar Technolab",
+      "url": "https://www.youtube.com/embed/2sofDNM4Ymo?autoplay=1",
+      "date": "2023-10-26 6:15:24 PM"
+    },
+    {
+      "id": "lo76ghsx",
+      "video_title": "Apna  Bana Le",
+      "url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1",
+      "date": "2023-10-26 6:15:32 PM"
+    },
+    {
+      "id": "lo83lahj",
+      "video_title": "Baby",
+      "url": "https://www.youtube.com/embed/kffacxfA7G4?autoplay=1",
+      "date": "2023-10-27 9:43:03 AM"
+    },
+    {
+      "id": "lo852498",
+      "video_title": "Luminar Technolab",
+      "url": "https://www.youtube.com/embed/2sofDNM4Ymo?autoplay=1",
+      "date": "2023-10-27 10:24:08 AM"
+    },
+    {
+      "id": "lo8598ek",
+      "video_title": "Luminar Technolab",
+      "url": "https://www.youtube.com/embed/2sofDNM4Ymo?autoplay=1",
+      "date": "2023-10-27 10:29:40 AM"
+    },
+    {
+      "id": "lo9mwd2v",
+      "video_title": "Mr.Bean",
+      "url": "https://www.youtube.com/embed/9LhLjpsstPY?autoplay=1",
+      "date": "2023-10-28 11:31:19 AM"
+    },
+    {
+      "id": "lo9mxdj2",
+      "video_title": "Apna  Bana Le",
+      "url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1",
+      "date": "2023-10-28 11:32:06 AM"
+    },
+    {
+      "id": "lo9nemxu",
+      "video_title": "Baby",
+      "url": "https://www.youtube.com/embed/kffacxfA7G4?autoplay=1",
+      "date": "2023-10-28 11:45:31 AM"
+    },
+    {
+      "id": "lo9nwbt5",
+      "video_title": "Apna  Bana Le",
+      "url": "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1",
+      "date": "2023-10-28 11:59:17 AM"
+    }
+  ]
+}
